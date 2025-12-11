@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Python Virtual Environment Guide
 
 ## What is a Virtual Environment?
