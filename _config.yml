@@ -1,0 +1,23 @@
+# Jekyll Configuration for GitHub Pages
+
+title: My Markdown Notes
+description: Automatically published markdown files
+baseurl: "/Obsidian_to_GitPage_Workflow"
+url: "https://padjo.github.io"
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Include files with spaces in names
+include:
+  - "Christmas Presents.md"
+
+# Exclude files from processing
+exclude:
+  - .git
+  - .github
+  - README.md
+  - LICENSE
