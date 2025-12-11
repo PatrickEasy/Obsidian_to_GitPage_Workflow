@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Py venv Guide
 ---
 
 # Python Virtual Environment Guide
