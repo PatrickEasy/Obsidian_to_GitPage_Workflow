@@ -1,9 +1,11 @@
 # Jekyll Configuration for GitHub Pages
 
-title: PatrickEasy Documents
+title: Hosted Documents
 description: A Github workflow that automatically publishes markdown files as a webpage.
 baseurl: "/Obsidian_to_GitPage_Workflow"
 url: "https://PatrickEasy.github.io"
+date: 2025-12-11
+author: PatrickEasy
 
 # Theme
 theme: minima
