@@ -3,7 +3,7 @@ layout: default
 title: Gift Idea
 ---
 
-# Gift Idea
+# Ideas
 
 ### Zoe
 - [ ] [Workbench](https://www.bunnings.com.au/products/storage-cleaning/garage/garage-workbenches)
