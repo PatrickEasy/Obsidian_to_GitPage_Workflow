@@ -6,7 +6,7 @@ baseurl: "/Obsidian_to_GitPage_Workflow"
 url: "https://PatrickEasy.github.io"
 
 # Theme
-theme: minimal
+theme: minima
 
 # Build settings
 markdown: kramdown
