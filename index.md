@@ -12,5 +12,5 @@ title: Home
 
 *This site is automatically built and deployed whenever changes are pushed to the repository.*
 
-[View on GitHub](https://github.com/padjo/Obsidian_to_GitPage_Workflow)
+Made with curiosity [View on GitHub](https://github.com/patrickeasy/Obsidian_to_GitPage_Workflow)
 
