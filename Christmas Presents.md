@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 Zoe
 - [ ] [Workbench](https://www.bunnings.com.au/products/storage-cleaning/garage/garage-workbenches)
 - [ ] Foil Accessories for cricut

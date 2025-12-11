@@ -11,11 +11,6 @@ theme: minima
 # Build settings
 markdown: kramdown
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-last-modified-at
-
 # Include files with spaces in names
 include:
   - "Christmas Presents.md"
