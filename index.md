@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
-## Pages
+## Avaliable Pages
 
-- [Christmas Presents](Christmas%20Presents.html)
+- [2025 Christmas Presents](Christmas%20Presents.html)
+- More Coming Soon
 
 ---
 
