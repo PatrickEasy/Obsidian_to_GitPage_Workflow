@@ -1,4 +1,10 @@
---
+---
+layout: default
+title: Gift Idea
+---
+
+# Gift Idea
+
 ### Zoe
 - [ ] [Workbench](https://www.bunnings.com.au/products/storage-cleaning/garage/garage-workbenches)
 - [ ] Foil Accessories for cricut
