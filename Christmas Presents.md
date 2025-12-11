@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Gift Idea
+title: Gift Ideas
 ---
 
-# Ideas
+# Per Person Ideas
 
 ### Zoe
 - [ ] [Workbench](https://www.bunnings.com.au/products/storage-cleaning/garage/garage-workbenches)
@@ -30,9 +30,6 @@ title: Gift Idea
 
 ### Michael
 - [x] Ducati lego Set - Purchased
-
-### John & Emily W
-- [ ] Photo framed of them at wedding.
 
 ### Padjo
 - [ ] Knife sharpening set
@@ -61,6 +58,11 @@ title: Gift Idea
 	- [ ] New Retro Tech like this [case](https://www.pccasegear.com/products/71407/silverstone-flp02-retro-inspired-tower-chassis) or this [case](https://www.pccasegear.com/products/71408/silverstone-flp01-retro-inspired-htpc-chasis)
 	- [ ] Raspberry pi 5
 
+# Group Gifts
+
+### John & Emily W
+- [ ] Photo framed of them at wedding.
+
 ### Lil / Emma / Emily's Girls nights
-- [ ] Cameo
+- [ ] Cameo from Dadtok
 
