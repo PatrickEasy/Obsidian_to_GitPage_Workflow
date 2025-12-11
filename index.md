@@ -7,7 +7,8 @@ title: Home
 
 - [2025 Christmas Presents](Christmas%20Presents.html)
 - [Markdown Formatting Guide](Markdown%20Guide.html)
-- More Coming Soon
+- [Python Virtual Environment Guide](Python%20Virtual%20Environment%20Guide.html)
+- More Coming Soon...
 
 ---
 
