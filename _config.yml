@@ -1,7 +1,6 @@
 # Jekyll Configuration for GitHub Pages
 
 title: PatrickEasy Documents
-subtitle: Obsidian to GitPage Workflow
 description: A Github workflow that automatically publishes markdown files as a webpage.
 baseurl: "/Obsidian_to_GitPage_Workflow"
 url: "https://PatrickEasy.github.io"
