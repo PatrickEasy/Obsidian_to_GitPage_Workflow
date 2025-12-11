@@ -7,7 +7,7 @@ This repository automatically converts and publishes Markdown files to GitHub Pa
 1. **Add or edit** any `.md` file in this repository
 2. **Commit and push** your changes to the `main` or `master` branch
 3. **GitHub Actions** automatically builds the site with Jekyll
-4. **Your site** is published at: `https://padjo.github.io/Obsidian_to_GitPage_Workflow/`
+4. **Your site** is published at: `https://PatrickEasy.github.io/Obsidian_to_GitPage_Workflow/`
 
 ## Setup Instructions
 
