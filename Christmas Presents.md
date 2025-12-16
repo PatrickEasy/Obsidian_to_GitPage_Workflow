@@ -18,7 +18,9 @@ title: Gift Ideas
 		- [ ] Sander
 		- [ ] Router
 	- [ ] CNC machine
-	- [ ] Tool Storage - chest on wheels
+	- [ ] Tool Storage
+		- [ ] chest on wheels
+		- [ ] outdoor metal storage chest
 	- [ ] Multimeter
 - [ ] Personal Drone
 - [ ] filiment dryer
