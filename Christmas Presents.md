@@ -14,7 +14,7 @@ title: Gift Ideas
 	- Filament dryer
 	- DC variable power supply (sometimes known as a Bench power supply)
 	- Gardening automatic watering system
-	- [DIY weather station](https://core-electronics.com.au/sparkfun-arduino-iot-weather-station.html)
+	- [DIY weather station](https://core-electronics.com.au/sparkfun-arduino-iot-weather-station.html) or [alternative](https://core-electronics.com.au/weather-meter-kit.html)
 
 - **Workshop**
 	- Makita tools / kits ideally including:
