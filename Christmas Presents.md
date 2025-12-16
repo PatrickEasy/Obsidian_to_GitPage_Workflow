@@ -5,26 +5,25 @@ title: Gift Ideas
 
 # Per Person Ideas
 
-### Padjo
 - Japanese Knife sharpening set (Wet blocks)
 - Bike Helmet
-- Canberra comedy festive 
+- [Local comedy festive](https://canberracomedyfestival.com.au/)
 - F1 Oscar Piastri merch
 - Workshop Stuff
-	- Makita stuff
+	- Makita tools / kits ideally including:
 		- Fan
 		- Circular Saw
 		- Angle Grinder
 		- Sander
 		- Router
-	- CNC machine
+	- [CNC machine](https://www.amazon.com.au/VEVOR-300%C3%97180%C3%9745-Engraver-Controller-Engraving/dp/B0BZ4DF56F?)
 	- Tool Storage
-		- chest on wheels
-		- outdoor metal storage chest
+		- Chest on wheels
+		- Outdoor metal storage chest
 	- Multimeter
-- Personal Drone
-- filiment dryer
-- dc variable power supply (Bench power supply)
+- Personal Video Drone
+- Filament dryer
+- DC variable power supply (sometimes known as a Bench power supply)
 - Gardening automatic watering system
 - [DIY weather station](https://core-electronics.com.au/sparkfun-arduino-iot-weather-station.html)
 - Cheap / Easy
