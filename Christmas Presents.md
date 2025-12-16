@@ -6,7 +6,7 @@ title: Gift Ideas
 # Per Person Ideas
 
 ### Padjo
-- [ ] Knife sharpening set
+- [ ] Japanese Knife sharpening set (Wet blocks)
 - [ ] Bike Helmet
 - [ ] Canberra comedy festive 
 - [ ] F1 Oscar Piastri merch
@@ -27,7 +27,7 @@ title: Gift Ideas
 - [ ] [DIY weather station](https://core-electronics.com.au/sparkfun-arduino-iot-weather-station.html)
 - [ ] Cheap / Easy
 	- [ ] Kiwix - [link](https://kiwix.org/en/kiwix-hotspot/)
-	- [x] Meat thermometer 
+	- [ ] Meat thermometer 
 	- [ ] Taka tala Sause
 - [ ] PC / Desk / Office Stuff
 	- [ ] New Keyboard - [Link](https://www.pccasegear.com/products/68328/keychron-k10-max-white-rgb-hot-swap-wireless-keyboard-silent-red)
