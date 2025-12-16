@@ -3,12 +3,18 @@ layout: default
 title: Gift Ideas
 ---
 
-# Gift Ideas for the most difficult person in the world to buy for
+# Some Gift Ideas
 
-- Japanese Knife sharpening set (Wet blocks)
-- Bike Helmet
-- [Local comedy festive](https://canberracomedyfestival.com.au/)
-- F1 Oscar Piastri merch
+- **General Ideas**
+	- Japanese Knife sharpening set (Wet blocks)
+	- Bike Helmet
+	- [Local comedy festive](https://canberracomedyfestival.com.au/)
+	- F1 Oscar Piastri merch
+	- Personal Video Drone
+	- Filament dryer
+	- DC variable power supply (sometimes known as a Bench power supply)
+	- Gardening automatic watering system
+	- [DIY weather station](https://core-electronics.com.au/sparkfun-arduino-iot-weather-station.html)
 
 - **Workshop**
 	- Makita tools / kits ideally including:
@@ -22,11 +28,6 @@ title: Gift Ideas
 		- Chest on wheels
 		- Outdoor metal storage chest
 	- Multimeter
-- Personal Video Drone
-- Filament dryer
-- DC variable power supply (sometimes known as a Bench power supply)
-- Gardening automatic watering system
-- [DIY weather station](https://core-electronics.com.au/sparkfun-arduino-iot-weather-station.html)
 
 - **Cheap / Easy**
 	- Kiwix - [link](https://kiwix.org/en/kiwix-hotspot/)
