@@ -36,7 +36,7 @@ title: Gift Ideas
 
 - **PC / Desk / Office**
 	- New Keyboard - [Link](https://www.pccasegear.com/products/68328/keychron-k10-max-white-rgb-hot-swap-wireless-keyboard-silent-red)
-		- Wireless Mechanical Keyboard
-		- Keycaps
+		- ~~Wireless Mechanical Keyboard~~
+		- ~~Keycaps~~
 	- New Retro Tech like this [case](https://www.pccasegear.com/products/71407/silverstone-flp02-retro-inspired-tower-chassis) or this [case](https://www.pccasegear.com/products/71408/silverstone-flp01-retro-inspired-htpc-chasis)
 	- Raspberry pi 5
