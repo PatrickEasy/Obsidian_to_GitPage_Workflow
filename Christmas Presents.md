@@ -6,10 +6,10 @@ title: Gift Ideas
 # Some Gift Ideas
 
 - **General Ideas**
-	- Japanese Knife sharpening set (Wet blocks)
+	- ~~Japanese Knife sharpening set (Wet blocks)~~
 	- Bike Helmet
 	- [Local comedy festive](https://canberracomedyfestival.com.au/)
-	- F1 Oscar Piastri merch
+	- ~~F1 Oscar Piastri merch~~
 	- Personal Video Drone
 	- Filament dryer
 	- DC variable power supply (sometimes known as a Bench power supply)
@@ -31,7 +31,7 @@ title: Gift Ideas
 
 - **Cheap / Easy**
 	- Kiwix - [link](https://kiwix.org/en/kiwix-hotspot/)
-	- Meat thermometer 
+	- ~~Meat thermometer~~
 	- Taka tala Sause
 
 - **PC / Desk / Office**
