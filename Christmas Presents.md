@@ -18,11 +18,14 @@ title: Gift Ideas
 
 - **Workshop**
 	- Makita tools / kits ideally including:
-		- Fan
 		- Circular Saw
+		- Drop Saw
+		- Reciprocating Saw
 		- Angle Grinder
-		- Sander
+		- Orbital Sander
 		- Router
+		- Fan
+		- USB Adapter for battery pack
 	- [CNC machine](https://www.amazon.com.au/VEVOR-300%C3%97180%C3%9745-Engraver-Controller-Engraving/dp/B0BZ4DF56F?)
 	- Tool Storage
 		- Chest on wheels
